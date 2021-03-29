@@ -1,0 +1,676 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"JT",
+				"JWT_EXPIRES_IN"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				":n",
+				"Build With: NodeJS"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"r",
+				"ANF: Rename File"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				":m",
+				"Build With: MongoDB"
+			],
+			[
+				":mon",
+				"Build With: MongoDB"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				":p",
+				"Build With: PHP"
+			],
+			[
+				":ph",
+				"Build With: PHP"
+			],
+			[
+				":nod",
+				"Build With: NodeJS"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 134.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/components/form/input.js",
+		"/media/riajul/FILEs/02. Riajul/03. PROGRAM & GRAPHICES/01. PROGRAMS/02. DEMO/Note/Redux.txt",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/components/form/form.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/App.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/components/posts/posts.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/store/posts.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/store/actions/posts.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/api/index.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/store/reducers.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/index.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/store/store.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/components/posts/post/post.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/styles.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/components/posts/style.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/components/posts/post/style.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/components/form/style.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/package.json",
+		"/home/riajul/Documents/MERN_JS_Mastery/client/src/style.css",
+		"/home/riajul/Documents/MERN_JS_Mastery/server/routes/postsRoute.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/server/controllers/postsController.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/server/models/postsModel.js",
+		"/media/riajul/FILEs/02. Riajul/03. PROGRAM & GRAPHICES/01. PROGRAMS/02. DEMO/Note/npm.txt",
+		"/media/riajul/FILEs/02. Riajul/03. PROGRAM & GRAPHICES/01. PROGRAMS/02. DEMO/Note/NodeJS.txt",
+		"/media/riajul/FILEs/02. Riajul/03. PROGRAM & GRAPHICES/01. PROGRAMS/02. DEMO/Note/MongoDB.txt",
+		"/media/riajul/FILEs/02. Riajul/03. PROGRAM & GRAPHICES/01. PROGRAMS/02. DEMO/Note/Mongoose.txt",
+		"/home/riajul/Documents/MERN_JS_Mastery/server/index.js",
+		"/home/riajul/Documents/MERN_JS_Mastery/server/package.json",
+		"/home/riajul/Documents/MERN/client/package.json",
+		"/home/riajul/Documents/MERN/package.json",
+		"/media/riajul/FILEs/02. Riajul/03. PROGRAM & GRAPHICES/01. PROGRAMS/02. DEMO/Note/React.txt",
+		"/home/riajul/Documents/react-redux/README.md",
+		"/media/riajul/FILEs/02. Riajul/03. PROGRAM & GRAPHICES/01. PROGRAMS/02. DEMO/Note/JavaScript.txt",
+		"/home/riajul/Documents/react-redux/src/App.js",
+		"/home/riajul/Documents/react-redux/src/components/bugs.js",
+		"/home/riajul/Documents/react-redux/src/store/bugs.js",
+		"/home/riajul/Documents/react-redux/src/contexts/storeContext.js",
+		"/home/riajul/Documents/react-redux/src/store/apiAction.js",
+		"/home/riajul/Documents/react-redux/src/store/middleware/api.js",
+		"/home/riajul/Documents/react-redux/server.js",
+		"/home/riajul/Documents/react-redux/src/store/store.js",
+		"/home/riajul/Documents/react-redux/src/store/middleware/logger.js",
+		"/home/riajul/Documents/react-redux/package.json",
+		"/media/riajul/FILEs/02. Riajul/03. PROGRAM & GRAPHICES/01. PROGRAMS/02. DEMO/Note/Linux.txt",
+		"/home/riajul/Documents/react-redux/src/store/projects.js",
+		"/home/riajul/Documents/react-redux/src/store/entities.js",
+		"/home/riajul/Documents/react-redux/src/store/reducers.js",
+		"/home/riajul/Documents/react-redux/src/store/reducer.js",
+		"/home/riajul/Documents/react-redux/src/App.css",
+		"/home/riajul/Documents/react-redux/src/index.js",
+		"/media/riajul/FILEs/02. Riajul/03. PROGRAM & GRAPHICES/01. PROGRAMS/02. DEMO/Note/HTML.txt",
+		"/home/riajul/Documents/my-app/package.json",
+		"/home/riajul/Documents/MERN/client/src/Components/forms/loginForm.js",
+		"/home/riajul/Desktop/node/index.js",
+		"/home/riajul/Documents/MERN/_Demo/demo.js",
+		"/home/riajul/Desktop/node/package.json",
+		"/home/riajul/package.json",
+		"/home/riajul/Documents/MERN/client/src/Components/common/input.js",
+		"/home/riajul/Documents/MERN/client/src/App.js",
+		"/home/riajul/Documents/MERN/client/src/Components/routes.js",
+		"/home/riajul/Documents/MERN/client/src/Components/navbar.js",
+		"/home/riajul/Documents/MERN/client/src/index.js",
+		"/home/riajul/Documents/MERN/client/src/Components/router/route.js",
+		"/home/riajul/Documents/MERN/client/src/Components/Router.js",
+		"/home/riajul/Documents/MERN/client/src/Components/common/pagination.js",
+		"/home/riajul/Documents/MERN/client/src/Components/movies/Movies.js",
+		"/media/riajul/FILEs/02. Riajul/03. PROGRAM & GRAPHICES/01. PROGRAMS/02. DEMO/Note/Css.txt",
+		"/media/riajul/FILEs/02. Riajul/03. PROGRAM & GRAPHICES/01. PROGRAMS/02. DEMO/Note/Sublime text 3.txt",
+		"/home/riajul/.config/sublime-text-3/Packages/SublimeLinter-jshint/README.md",
+		"/home/riajul/Desktop/index.html",
+		"/home/riajul/Desktop/SolaimanLipiNormal.css",
+		"/home/riajul/Desktop/style.css",
+		"/media/riajul/FILEs/02. Riajul/03. PROGRAM & GRAPHICES/01. PROGRAMS/02. DEMO/Note/TypeScript.txt",
+		"/home/riajul/Documents/MERN/client/src/Components/movies/MovieTable.js",
+		"/home/riajul/Documents/MERN/client/src/Components/movies/data.js",
+		"/home/riajul/Documents/MERN/client/src/Components/common/like.js",
+		"/home/riajul/Documents/MERN/client/src/store/middleware/api.js",
+		"/home/riajul/Documents/MERN/client/src/store/createStore.js",
+		"/home/riajul/Desktop/webpack/.gitignore",
+		"/home/riajul/Desktop/webpack/package.json",
+		"/home/riajul/Desktop/webpack/webpack-config.js",
+		"/home/riajul/Documents/MERN/client/src/store/bug.js",
+		"/home/riajul/Documents/MERN/client/src/store/api.js",
+		"/home/riajul/Documents/Natours/app.js",
+		"/home/riajul/Desktop/file.json",
+		"/home/riajul/Desktop/file.txt",
+		"/home/riajul/Documents/Natours/server.js",
+		"/home/riajul/Documents/MERN/client/src/store/middleware/loggler.js",
+		"/home/riajul/Documents/MERN/client/src/store/reducer.js",
+		"/home/riajul/Documents/MERN/client/src/store/entities.js",
+		"/home/riajul/Documents/MERN/client/src/store/project.js",
+		"/home/riajul/Documents/MERN/client/src/Redux/store.js",
+		"/home/riajul/Documents/MERN/_Demo/store/index.js",
+		"/home/riajul/Documents/MERN/client/src/Redux/reducer.js",
+		"/media/riajul/FILEs/02. Riajul/03. PROGRAM & GRAPHICES/01. PROGRAMS/02. DEMO/Note/Link.txt",
+		"/home/riajul/Documents/Natours/Demo/demo2.js",
+		"/home/riajul/Downloads/Torrent/The Ultimate Redux Course/0. Websites you may like/0. (1Hack.Us) Premium Tutorials-Guides-Articles _ Community based Forum.url",
+		"/home/riajul/Downloads/Torrent/The Ultimate Redux Course/0. Websites you may like/1. (FreeCoursesOnline.Me) Download Udacity, Masterclass, Lynda, PHLearn, Pluralsight Free.url",
+		"/home/riajul/Downloads/Torrent/The Ultimate Redux Course/0. Websites you may like/3. (FTUApps.com) Download Cracked Developers Applications For Free.url",
+		"/home/riajul/Downloads/Torrent/The Ultimate Redux Course/0. Websites you may like/How you can help our Group!.txt",
+		"/home/riajul/Documents/Natours/Demo/demo.js",
+		"/home/riajul/Documents/MERN/client/src/Redux/actionCreator.js",
+		"/home/riajul/Documents/MERN/client/src/Redux/actionTypes.js",
+		"/home/riajul/Documents/MERN/client/src/Context/UserContext.js",
+		"/home/riajul/Documents/MERN/client/src/Components/ShowColor.js",
+		"/media/riajul/FILEs/02. Riajul/03. PROGRAM & GRAPHICES/01. PROGRAMS/02. DEMO/Note/React_Native.txt",
+		"/home/riajul/Documents/MERN/client/src/Context",
+		"/home/riajul/Documents/appExpo/App.js",
+		"/home/riajul/Documents/Natours/public/overview.html",
+		"/home/riajul/.bashrc",
+		"/home/riajul/Downloads/Compressed/android-studio/Install-Linux-tar.txt",
+		"/home/riajul/Desktop/Android Studio.desktop",
+		"/home/riajul/Documents/Natours/views/tour.pug",
+		"/home/riajul/Documents/Natours/views/_overViewBox.pug",
+		"/home/riajul/Documents/Natours/controllers/viewController.js",
+		"/home/riajul/Documents/Natours/models/tourModel.js",
+		"/home/riajul/Documents/Natours/models/reviewModel.js",
+		"/home/riajul/Documents/Natours/public/css/style.css",
+		"/home/riajul/Documents/Natours/views/_header.pug",
+		"/home/riajul/Documents/Natours/views/_footer.pug",
+		"/home/riajul/Documents/Natours/views/template.pug",
+		"/home/riajul/Documents/Natours/routes/viewRoute.js",
+		"/home/riajul/Documents/Natours/views/overview.pug",
+		"/home/riajul/Documents/Natours/routes/tourRoute.js",
+		"/home/riajul/Documents/Natours/models/userModel.js",
+		"/media/riajul/FILEs/TUTORIALs/03. Web Development/01. JavaScript/NodeJS/01. (Jonas Schmedtmann) Node.js, Express, MongoDB & More The Complete Bootcamp 2020/00. Data/4-natours/after-section-14/dev-data/data/users.json",
+		"/home/riajul/Documents/Natours/models/mongo.js",
+		"/media/riajul/FILEs/TUTORIALs/03. Web Development/01. JavaScript/NodeJS/01. (Jonas Schmedtmann) Node.js, Express, MongoDB & More The Complete Bootcamp 2020/00. Data/4-natours/after-section-14/dev-data/data/tours.json",
+		"/media/riajul/FILEs/TUTORIALs/03. Web Development/01. JavaScript/NodeJS/01. (Jonas Schmedtmann) Node.js, Express, MongoDB & More The Complete Bootcamp 2020/00. Data/4-natours/after-section-12/dev-data/data/tours.json"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mongoos",
+				"Note/Mongoose.txt"
+			],
+			[
+				"j",
+				"Note/JavaScript.txt"
+			],
+			[
+				"redux",
+				"Note/Redux.txt"
+			],
+			[
+				"npm",
+				"Note/npm.txt"
+			],
+			[
+				"mo",
+				"Note/Mongoose.txt"
+			],
+			[
+				"mongodb",
+				"Note/MongoDB.txt"
+			],
+			[
+				"node",
+				"Note/NodeJS.txt"
+			],
+			[
+				"ja",
+				"Note/JavaScript.txt"
+			],
+			[
+				"red",
+				"Note/Redux.txt"
+			],
+			[
+				"rea",
+				"Note/React.txt"
+			],
+			[
+				"lin",
+				"Note/Linux.txt"
+			],
+			[
+				"html",
+				"Note/HTML.txt"
+			],
+			[
+				"linux",
+				"Note/Linux.txt"
+			],
+			[
+				"sub",
+				"Note/Sublime text 3.txt"
+			],
+			[
+				"css",
+				"Note/Css.txt"
+			],
+			[
+				"n",
+				"Note/NodeJS.txt"
+			],
+			[
+				"link",
+				"Note/Link.txt"
+			],
+			[
+				"reac",
+				"Note/React_Native.txt"
+			],
+			[
+				"react",
+				"Note/React.txt"
+			],
+			[
+				"mon",
+				"Note/Mongoose.txt"
+			],
+			[
+				"ink",
+				"Note/InkScape.txt"
+			],
+			[
+				"mongo",
+				"Note/MongoDB.txt"
+			],
+			[
+				"git",
+				"Note/GIT.txt"
+			],
+			[
+				"no",
+				"Note/NodeJS.txt"
+			],
+			[
+				"mong",
+				"Note/MongoDB.txt"
+			],
+			[
+				"com",
+				"Note/Comics.txt"
+			],
+			[
+				"r",
+				"Note/React.txt"
+			],
+			[
+				"native",
+				"Note/React_Native.txt"
+			],
+			[
+				"note/q",
+				"Note/Questions & Quote .txt"
+			],
+			[
+				"react n",
+				"Note/ReactNative.txt"
+			],
+			[
+				"nongod",
+				"Note/MongoDB.txt"
+			],
+			[
+				"m",
+				"Note/MongoDB.txt"
+			],
+			[
+				"w",
+				"Note/Webpack.txt"
+			],
+			[
+				"l",
+				"Note/Link.txt"
+			],
+			[
+				"d",
+				"Note/Database.txt"
+			],
+			[
+				"webs",
+				"Note/WebSocket.txt"
+			],
+			[
+				"webso",
+				"Note/WebSocket.txt"
+			],
+			[
+				"Rea",
+				"Note/React.txt"
+			],
+			[
+				"webp",
+				"Note/Webpack.txt"
+			],
+			[
+				"b",
+				"Note/babel.txt"
+			],
+			[
+				"babel",
+				"Note/babel.txt"
+			],
+			[
+				"kali",
+				"Note/KaliLinux.txt"
+			],
+			[
+				"jav",
+				"Note/JavaScript.txt"
+			],
+			[
+				"webpack",
+				"Note/Webpack.txt"
+			],
+			[
+				"writer",
+				"Note/LibreOffice_Writer.txt"
+			],
+			[
+				"note/",
+				"Note/GIT.txt"
+			],
+			[
+				"web",
+				"Note/Webpack.txt"
+			],
+			[
+				"java",
+				"Note/JavaScript.txt"
+			],
+			[
+				"comic",
+				"Note/Comics.txt"
+			],
+			[
+				"note/gi",
+				"Note/GIT.txt"
+			],
+			[
+				"note/git",
+				"Note/GIT.txt"
+			],
+			[
+				"git.tx",
+				"Note/GIT.txt"
+			],
+			[
+				"linu",
+				"Note/Linux.txt"
+			],
+			[
+				"comics",
+				"Note/Comics.txt"
+			],
+			[
+				"dat",
+				"Note/Database.txt"
+			],
+			[
+				"calc",
+				"Note/LibreOffice_Calc.txt"
+			],
+			[
+				"comi",
+				"Note/Comics.txt"
+			],
+			[
+				"base",
+				"Note/LibreOffice_Base.txt"
+			],
+			[
+				"D",
+				"Note/Database.txt"
+			],
+			[
+				"server",
+				"Note/Server.txt"
+			],
+			[
+				"da",
+				"Note/Database.txt"
+			],
+			[
+				"mys",
+				"Note/MySQL.txt"
+			],
+			[
+				"wri",
+				"Note/LibreOffice_Writer.txt"
+			],
+			[
+				"ex",
+				"Note/MS_Excel.txt"
+			],
+			[
+				"cal",
+				"Note/LibreOffice_Calc.txt"
+			],
+			[
+				"draw",
+				"Note/LibreOffice_Draw.txt"
+			],
+			[
+				"im",
+				"Note/LibreOffice_Impress.txt"
+			],
+			[
+				"php",
+				"Note/PHP.txt"
+			],
+			[
+				"compu",
+				"Computer.txt"
+			],
+			[
+				"h",
+				"HBCD.txt"
+			],
+			[
+				"vir",
+				"Virtualization.txt"
+			],
+			[
+				"bash",
+				"Bash.txt"
+			],
+			[
+				"my",
+				"MySQL.txt"
+			],
+			[
+				"data",
+				"Database.txt"
+			],
+			[
+				"sam",
+				"Samba.txt"
+			],
+			[
+				"li",
+				"LibreOffice_Impress.txt"
+			],
+			[
+				"samba",
+				"Samba.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
